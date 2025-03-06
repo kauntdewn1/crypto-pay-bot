@@ -1,0 +1,13 @@
+{
+    "services": [
+      {
+        "name": "crypto-pay-bot",
+        "env": {
+          "TELEGRAM_BOT_TOKEN": "${{TELEGRAM_BOT_TOKEN}}",
+          "API_TOKEN": "${{API_TOKEN}}",
+          "PORT": "5000"
+        }
+      }
+    ]
+  }
+  
