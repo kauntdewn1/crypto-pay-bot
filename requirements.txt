@@ -1,0 +1,4 @@
+# Dependências do projeto
+python-telegram-bot
+requests
+sqlite3
